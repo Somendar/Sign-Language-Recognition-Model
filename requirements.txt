@@ -1,0 +1,4 @@
+tensorflow
+protobuf
+Pillow
+numpy
